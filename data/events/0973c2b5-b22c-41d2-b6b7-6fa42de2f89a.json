@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "2040f23f-4aeb-40d0-8c5d-a3d306bcc702": {
+      "label": "sdafasdf",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "asdfasdf"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "asdfasdf",
+  "created_at": "2025-04-22T15:00:41.686Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-04-22T15:00:41.686Z",
+  "updated_by": "SteveMarvin"
+}
